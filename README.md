@@ -7,4 +7,5 @@
 * Express.js
 * MongoDB
 * GraphQL
-* Bootstrap
+* Apollo
+* CSS/Bootstrap
