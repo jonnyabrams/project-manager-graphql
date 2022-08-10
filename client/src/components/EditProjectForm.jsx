@@ -11,8 +11,8 @@ const EditProjectForm = ({ project }) => {
 
   const [updateProject] = useMutation(UPDATE_PROJECT, {
     variables: { id: project.id, name, description, status },
-    refetchQueries: [{ query: GET_PROJECT, variables: { id: project.id } }]
-  })
+    refetchQueries: [{ query: GET_PROJECT, variables: { id: project.id } }],
+  });
 
   const onSubmit = (e) => {
     e.preventDefault();
@@ -21,7 +21,7 @@ const EditProjectForm = ({ project }) => {
       return alert("Please fill out all fields");
     }
 
-    updateProject(name, description, status)
+    updateProject(name, description, status);
   };
 
   return (
