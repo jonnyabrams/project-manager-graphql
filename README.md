@@ -1,8 +1,17 @@
-# Project Manager
+#  Project Manager
+
+<img width="1440" alt="project-manager" src="https://user-images.githubusercontent.com/97295867/183846410-34f81768-98da-4e8a-993d-249bc3f23ddf.png">
 
 This is a simple full-stack project manager I built while learning GraphQL and Apollo Client, which I used here alongside React.js, Node, Express, MongoDB and Bootstrap.
 
 Users can add clients and projects (with a dropdown selector to assign a project to a particular client), update projects and delete them, while deleting a client also removes the project or projects they're assigned to.
+
+---
+
+
+## Video Demo
+
+https://user-images.githubusercontent.com/97295867/183846006-311d52df-57cd-4983-a367-5d7695377858.mp4
 
 ---
 
