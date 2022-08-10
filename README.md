@@ -1,4 +1,4 @@
-#  Project Manager
+# Project Manager
 
 <img width="1440" alt="project-manager" src="https://user-images.githubusercontent.com/97295867/183846410-34f81768-98da-4e8a-993d-249bc3f23ddf.png">
 
